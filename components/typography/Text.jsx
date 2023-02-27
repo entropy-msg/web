@@ -1,8 +1,7 @@
-export default const TextName = ({children}) => { // ComponentName - будущее название компонента 
+export default const Text = ({children}) => {
     return (
         <span> 
             {children}
         </span>
     )
 }
-<link rel="stylesheet" href="styles/global.css" />
