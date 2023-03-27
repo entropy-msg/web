@@ -4,7 +4,7 @@ import styles from '@/styles/globals.css'
 
 export default const Text = ({Text}) => { 
     return (
-        <span> // 
+        <span>
             {Text}
         </span>
     )
